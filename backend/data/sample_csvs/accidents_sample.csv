@@ -1,51 +1,51 @@
 latitude,longitude,timestamp,severity,vehicles_involved,road_type,weather,light_condition
-21.212311,81.647368,2026-08-29T15:06:08,major,1,National Highway,Clear,Daylight
-21.266969,81.628308,2026-10-25T21:48:51,minor,1,Junction,Clear,Dark - Unlit
-21.237289,81.671095,2026-10-17T21:42:23,minor,1,Internal Road,Clear,Dark - Unlit
-21.256883,81.654131,2026-09-17T01:47:00,minor,1,National Highway,Fog,Dark - Lit
-21.248802,81.631776,2026-08-17T02:15:23,major,3,Junction,Clear,Dark - Unlit
-21.235126,81.67202,2026-09-25T22:35:49,major,2,Junction,Rain,Dark - Lit
-21.255193,81.652932,2026-08-18T04:33:31,major,2,Internal Road,Clear,Dark - Unlit
-21.217069,81.65434,2026-09-08T16:44:21,minor,1,National Highway,Clear,Daylight
-21.258133,81.627258,2026-09-23T21:34:07,major,1,Junction,Clear,Dark - Unlit
-21.252746,81.629845,2026-08-08T03:00:08,major,2,Internal Road,Clear,Dark - Unlit
-21.269792,81.633089,2026-09-13T21:11:58,fatal,3,Internal Road,Clear,Dark - Unlit
-21.2555,81.630203,2026-09-04T09:05:30,major,1,City Arterial,Clear,Daylight
-21.24999,81.636391,2026-09-01T23:03:57,major,2,City Arterial,Clear,Dark - Lit
-21.234095,81.670425,2026-10-11T08:54:34,minor,3,National Highway,Clear,Daylight
-21.216686,81.651564,2026-09-24T01:38:53,minor,2,National Highway,Clear,Dark - Lit
-21.252208,81.632864,2026-10-10T22:32:30,minor,2,National Highway,Clear,Dark - Lit
-21.234569,81.670597,2026-10-17T10:52:53,major,2,Junction,Rain,Daylight
-21.257968,81.633529,2026-10-06T23:09:58,fatal,1,Internal Road,Clear,Dark - Lit
-21.239808,81.670525,2026-08-10T00:00:04,major,2,Junction,Clear,Dark - Lit
-21.217178,81.654094,2026-10-28T14:32:46,major,2,National Highway,Clear,Daylight
-21.233602,81.665376,2026-08-27T05:54:22,minor,2,City Arterial,Clear,Dark - Unlit
-21.218401,81.653141,2026-09-30T14:26:26,major,2,National Highway,Clear,Daylight
-21.212985,81.648481,2026-10-20T21:00:10,major,3,National Highway,Clear,Dark - Unlit
-21.261311,81.57476,2026-09-21T01:29:57,minor,2,National Highway,Rain,Dark - Unlit
-21.23168,81.672175,2026-09-30T04:40:26,minor,1,Internal Road,Clear,Dark - Unlit
-21.261733,81.631578,2026-09-09T20:57:14,minor,1,Flyover,Clear,Dark - Unlit
-21.255797,81.566233,2026-08-23T21:53:15,major,3,National Highway,Clear,Dark - Lit
-21.256423,81.653024,2026-10-08T10:20:44,major,1,National Highway,Clear,Daylight
-21.211437,81.651215,2026-10-01T23:16:36,minor,2,National Highway,Clear,Dark - Unlit
-21.252235,81.566672,2026-10-20T03:31:07,minor,2,National Highway,Clear,Dark - Unlit
-21.232523,81.669818,2026-09-10T04:04:29,fatal,3,Junction,Clear,Dark - Lit
-21.246537,81.635302,2026-09-30T21:24:51,major,2,Internal Road,Clear,Dark - Lit
-21.260759,81.625621,2026-08-30T03:15:48,major,1,City Arterial,Clear,Dark - Unlit
-21.251194,81.638256,2026-10-15T23:44:53,minor,2,City Arterial,Clear,Dark - Unlit
-21.256558,81.570162,2026-10-08T21:08:23,minor,1,National Highway,Clear,Dark - Unlit
-21.229629,81.664813,2026-09-04T23:12:13,minor,2,Flyover,Clear,Dark - Unlit
-21.238288,81.668338,2026-08-22T15:06:03,major,1,Internal Road,Clear,Daylight
-21.251793,81.62829,2026-08-24T23:42:25,minor,1,Flyover,Rain,Dark - Unlit
-21.216179,81.650442,2026-08-30T07:16:42,minor,2,National Highway,Clear,Daylight
-21.254054,81.633756,2026-08-15T14:35:08,minor,2,Flyover,Rain,Daylight
-21.257528,81.569287,2026-10-21T01:48:34,minor,1,National Highway,Clear,Dark - Unlit
-21.220787,81.648292,2026-09-01T15:12:31,major,2,National Highway,Clear,Daylight
-21.254598,81.572812,2026-09-27T03:34:10,minor,3,National Highway,Clear,Dark - Lit
-21.265016,81.624445,2026-10-17T04:59:29,minor,2,Junction,Clear,Dark - Lit
-21.238735,81.674444,2026-10-02T12:09:17,fatal,1,City Arterial,Rain,Daylight
-21.21979,81.650449,2026-09-07T08:37:04,minor,2,National Highway,Clear,Daylight
-21.216336,81.65401,2026-09-24T04:20:29,minor,2,National Highway,Clear,Dark - Lit
-21.257033,81.571223,2026-09-09T18:57:34,major,2,National Highway,Clear,Daylight
-21.217772,81.651889,2026-10-03T05:10:57,major,3,National Highway,Clear,Dark - Lit
-21.248309,81.624918,2026-08-14T15:52:26,fatal,2,Junction,Clear,Daylight
+21.259997,81.654258,2026-08-02T01:23:17,minor,2,Flyover,Rain,Dark - Unlit
+21.23868,81.67057,2026-09-13T02:26:54,minor,2,Flyover,Rain,Dark - Unlit
+21.252719,81.632705,2026-10-13T05:10:32,minor,1,Junction,Clear,Dark - Unlit
+21.220868,81.649956,2026-08-03T12:52:35,minor,1,National Highway,Clear,Daylight
+21.250194,81.639605,2026-09-24T01:57:58,major,2,Internal Road,Clear,Dark - Lit
+21.260408,81.571152,2026-08-08T18:55:46,minor,1,National Highway,Clear,Daylight
+21.233865,81.667269,2026-09-26T00:32:32,fatal,2,National Highway,Clear,Dark - Unlit
+21.252359,81.634345,2026-09-14T01:19:58,major,2,Junction,Clear,Dark - Unlit
+21.257621,81.57209,2026-08-08T11:42:13,minor,2,National Highway,Clear,Daylight
+21.257736,81.569499,2026-08-05T16:57:08,minor,2,National Highway,Clear,Daylight
+21.220445,81.649729,2026-09-28T19:56:16,minor,1,National Highway,Fog,Daylight
+21.262369,81.566069,2026-08-17T19:49:20,minor,1,National Highway,Clear,Daylight
+21.256079,81.634433,2026-08-20T05:17:33,minor,1,National Highway,Clear,Dark - Lit
+21.218091,81.652886,2026-10-23T09:03:22,major,3,National Highway,Clear,Daylight
+21.256887,81.568626,2026-09-07T23:07:15,major,1,National Highway,Rain,Dark - Unlit
+21.219743,81.648466,2026-10-05T00:58:47,minor,2,National Highway,Clear,Dark - Unlit
+21.211319,81.653002,2026-10-07T01:57:15,major,2,National Highway,Clear,Dark - Unlit
+21.221249,81.650109,2026-08-14T06:23:48,major,1,National Highway,Clear,Daylight
+21.262173,81.573765,2026-10-07T00:44:34,major,2,National Highway,Clear,Dark - Unlit
+21.2558,81.568939,2026-09-15T23:12:01,minor,1,National Highway,Clear,Dark - Unlit
+21.258705,81.6577,2026-09-05T11:25:47,minor,1,Internal Road,Clear,Daylight
+21.23139,81.665825,2026-10-04T04:44:27,minor,2,City Arterial,Clear,Dark - Lit
+21.260229,81.569228,2026-10-10T03:06:37,minor,1,National Highway,Clear,Dark - Lit
+21.255027,81.647704,2026-09-18T23:02:47,minor,2,City Arterial,Clear,Dark - Lit
+21.247903,81.635173,2026-09-22T03:32:10,major,2,Junction,Clear,Dark - Unlit
+21.248624,81.635554,2026-10-24T01:54:51,minor,3,City Arterial,Clear,Dark - Lit
+21.262069,81.570124,2026-09-21T01:04:18,major,1,National Highway,Clear,Dark - Lit
+21.262596,81.631159,2026-08-16T23:27:24,minor,1,Junction,Clear,Dark - Lit
+21.216193,81.651484,2026-08-12T02:52:48,minor,2,National Highway,Clear,Dark - Lit
+21.259818,81.564873,2026-09-03T00:46:05,major,1,National Highway,Fog,Dark - Unlit
+21.217842,81.655384,2026-10-24T11:50:19,fatal,2,National Highway,Clear,Daylight
+21.24331,81.641549,2026-09-25T13:07:02,major,2,Junction,Clear,Daylight
+21.267715,81.56602,2026-08-06T22:59:09,major,2,National Highway,Clear,Dark - Unlit
+21.220967,81.654093,2026-09-07T05:06:07,major,2,National Highway,Clear,Dark - Lit
+21.216701,81.648364,2026-09-21T15:03:37,minor,2,National Highway,Clear,Daylight
+21.261344,81.650672,2026-09-13T07:52:39,minor,2,City Arterial,Clear,Daylight
+21.26062,81.631685,2026-09-14T02:41:26,fatal,2,Internal Road,Clear,Dark - Lit
+21.269225,81.634642,2026-08-22T05:10:43,minor,1,Junction,Clear,Dark - Lit
+21.25684,81.648079,2026-08-01T01:40:46,minor,2,Internal Road,Clear,Dark - Unlit
+21.221763,81.655943,2026-09-06T03:25:11,major,3,National Highway,Rain,Dark - Lit
+21.266316,81.570521,2026-09-06T21:15:11,minor,1,National Highway,Clear,Dark - Lit
+21.264987,81.565649,2026-09-09T00:54:01,minor,1,National Highway,Clear,Dark - Lit
+21.262195,81.570519,2026-08-24T07:54:57,major,2,National Highway,Clear,Daylight
+21.216725,81.652234,2026-10-05T07:17:04,minor,2,National Highway,Clear,Daylight
+21.258946,81.574191,2026-08-03T16:34:18,minor,1,National Highway,Clear,Daylight
+21.236474,81.668767,2026-08-18T01:58:31,minor,1,National Highway,Clear,Dark - Lit
+21.219404,81.65522,2026-09-05T01:46:15,major,1,National Highway,Clear,Dark - Lit
+21.247958,81.630494,2026-10-02T02:13:28,minor,3,Internal Road,Clear,Dark - Unlit
+21.260218,81.633472,2026-10-02T11:36:13,minor,1,National Highway,Clear,Daylight
+21.231502,81.670797,2026-10-18T14:40:25,fatal,2,City Arterial,Clear,Daylight

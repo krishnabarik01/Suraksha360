@@ -1,7 +1,7 @@
 from typing import List
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 import json
 
 from app.db import get_db
@@ -18,8 +18,7 @@ class StationOut(BaseModel):
     address: str
     contact_number: str
 
-    class Config:
-        from_attributes = True
+    model_config = ConfigDict(from_attributes=True)
 
 class BeatOut(BaseModel):
     id: int

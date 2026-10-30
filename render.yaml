@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: garudabeat-backend
+    name: suraksha360-backend
     runtime: python
     region: oregon
     plan: free
@@ -17,4 +17,5 @@ services:
         generateValue: true
       - key: ACCESS_TOKEN_EXPIRE_MINUTES
         value: "1440"
+
 

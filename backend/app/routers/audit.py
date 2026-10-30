@@ -3,7 +3,7 @@ from datetime import datetime
 from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session
 from sqlalchemy import desc
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 from app.db import get_db
 from app.models.audit import AuditLog
@@ -20,8 +20,7 @@ class AuditLogOut(BaseModel):
     details_json: Optional[str]
     created_at: datetime
 
-    class Config:
-        from_attributes = True
+    model_config = ConfigDict(from_attributes=True)
 
 @router.get("", response_model=List[AuditLogOut])
 def list_audit_logs(
