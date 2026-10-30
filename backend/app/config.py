@@ -3,7 +3,7 @@ from typing import List
 import os
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "GarudaBeat - Predictive Public-Safety & Beat Intelligence"
+    PROJECT_NAME: str = "Suraksha360 - Predictive Public-Safety & Beat Intelligence"
     API_V1_STR: str = "/api/v1"
     SECRET_KEY: str = os.getenv("SECRET_KEY", "super-secret-key-for-dev-safety-system-2026")
     ALGORITHM: str = "HS256"

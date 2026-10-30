@@ -1,6 +1,6 @@
-# GarudaBeat: Public Safety & Beat Intelligence Data Dictionary
+# Suraksha360: Public Safety & Beat Intelligence Data Dictionary
 
-This document details the data schemas, field definitions, coordinate systems, and constraints utilized across the GarudaBeat platform. All default demo data represents realistic synthetic simulations for Raipur, Chhattisgarh (WGS-84, EPSG:4326).
+This document details the data schemas, field definitions, coordinate systems, and constraints utilized across the Suraksha360 platform. All default demo data represents realistic synthetic simulations for Raipur, Chhattisgarh (WGS-84, EPSG:4326).
 
 ---
 

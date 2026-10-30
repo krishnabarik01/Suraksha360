@@ -1,12 +1,12 @@
 # Responsible AI, Privacy & Constitutional Governance Framework
 
-GarudaBeat is engineered under a strict "Responsible-by-Design" architecture. In law enforcement contexts, machine learning applications must adhere to constitutional protections, procedural fairness, and data privacy safeguards.
+Suraksha360 is engineered under a strict "Responsible-by-Design" architecture. In law enforcement contexts, machine learning applications must adhere to constitutional protections, procedural fairness, and data privacy safeguards.
 
 ---
 
 ## 1. Absolute Prohibition of Individual Profiling
 
-1. **No Personal Profiling:** GarudaBeat contains no functionality to score, predict, classify, or track individual persons, suspects, or citizens.
+1. **No Personal Profiling:** Suraksha360 contains no functionality to score, predict, classify, or track individual persons, suspects, or citizens.
 2. **No Facial Recognition or Biometrics:** Biometric images, social media scrapers, and person-centric facial recognition modules are strictly excluded from the codebase.
 3. **500m Geographic Bounding:** All machine learning models operate solely at the aggregate spatial cell level ($500 \times 500\text{ meters}$).
 4. **Non-Accusatory Nature:** A high-risk cell prediction denotes only that preventive visibility (e.g. stationary patrol presence or merchant security checks) may be beneficial. It does NOT constitute reasonable suspicion, probable cause, or evidence of guilt regarding any person in that area.
@@ -32,7 +32,7 @@ $$\text{More Patrols} \longrightarrow \text{More Minor Infractions Detected} \lo
 
 If left unchecked, predictive models artificially concentrate police presence in historically over-policed neighborhoods while starving under-reported areas of preventive safety.
 
-### GarudaBeat Technical Mitigations:
+### Suraksha360 Technical Mitigations:
 1. **Citizen-Initiated Emergency Calls Primary:** The prioritization and risk models give higher weight to citizen-initiated 112 distress calls over officer-initiated proactive stops.
 2. **Baseline Minimum Beat Allocation:** The resource allocation engine enforces a minimum floor (at least 1 dedicated motorcycle unit) across all beats regardless of statistical density, ensuring baseline public safety equity across the entire city.
 3. **Temporal Normalization:** Incidents are normalized across multi-day rolling windows (7d, 30d, 90d) to prevent single-event spikes from distorting neighborhood risk scores.
@@ -44,7 +44,7 @@ If left unchecked, predictive models artificially concentrate police presence in
 
 1. **Caller Phone Number Hashing:** On ingest of emergency calls from the Computer-Aided Dispatch (CAD) adapter, caller telephone numbers are converted into irreversible SHA-256 hashes (`caller_phone_hash`). No plaintext phone numbers or citizen names are retained in the database.
 2. **Data Minimization:** Only objective geographic coordinates, incident timestamps, category codes, and severity ratings are stored.
-3. **No Citizen Emergency Web Portal:** Citizens in life-threatening emergencies must dial **112**. The GarudaBeat web portal is strictly an authorized internal intranet tool for sworn police personnel, preventing dangerous delays where a citizen might mistakenly fill out a web form during an active crime.
+3. **No Citizen Emergency Web Portal:** Citizens in life-threatening emergencies must dial **112**. The Suraksha360 web portal is strictly an authorized internal intranet tool for sworn police personnel, preventing dangerous delays where a citizen might mistakenly fill out a web form during an active crime.
 
 ---
 

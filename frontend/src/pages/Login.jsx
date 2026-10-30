@@ -43,7 +43,7 @@ export const Login = () => {
             <Shield className="w-8 h-8 text-white" />
           </div>
           <h1 className="text-2xl font-bold font-heading text-white tracking-wide">
-            GARUDA<span className="text-blue-500">BEAT</span>
+            Suraksha<span className="text-blue-500">360</span>
           </h1>
           <p className="text-xs text-slate-400">
             Predictive Public-Safety & Beat Intelligence System

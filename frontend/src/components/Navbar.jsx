@@ -28,7 +28,7 @@ export const Navbar = () => {
         </div>
         <div>
           <div className="flex items-center gap-2">
-            <span className="font-heading font-extrabold text-base tracking-wide text-white">GARUDA<span className="text-blue-500">BEAT</span></span>
+            <span className="font-heading font-extrabold text-base tracking-wide text-white">Suraksha<span className="text-blue-500">360</span></span>
             <SimulatedBadge />
           </div>
           <div className="flex items-center gap-1.5 text-[11px] text-slate-400">

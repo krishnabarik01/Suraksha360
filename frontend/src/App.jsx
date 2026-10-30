@@ -22,7 +22,7 @@ const ProtectedRoute = ({ children }) => {
   if (loading) {
     return (
       <div className="min-h-screen bg-[#080c14] flex items-center justify-center text-slate-400">
-        Loading GarudaBeat session...
+        Loading Suraksha360 session...
       </div>
     );
   }

@@ -1,6 +1,6 @@
-# GarudaBeat System Architecture & Technical Specifications
+# Suraksha360 System Architecture & Technical Specifications
 
-GarudaBeat is an AI-based predictive public safety, emergency response, and beat intelligence platform designed for municipal police departments. The system provides area-level risk estimation, accident blackspot detection, patrol route optimization, resource allocation forecasting, and emergency response delay analytics.
+Suraksha360 is an AI-based predictive public safety, emergency response, and beat intelligence platform designed for municipal police departments. The system provides area-level risk estimation, accident blackspot detection, patrol route optimization, resource allocation forecasting, and emergency response delay analytics.
 
 ---
 
@@ -203,7 +203,7 @@ erDiagram
 ## 3. Model Card: Random Forest Beat Risk Classifier (v1.2)
 
 ### Model Details
-- **Developer:** GarudaBeat AI Engineering Team
+- **Developer:** Suraksha360 AI Engineering Team
 - **Model Architecture:** Random Forest Ensemble (`n_estimators=100`, `max_depth=6`, `random_state=42`) benchmarked against a Standardized Logistic Regression baseline.
 - **Task:** Binary classification predicting elevated incident risk in a 500m cell for the upcoming 6h - 8h window.
 - **Explainability:** SHAP-lite linear attribution displaying relative marginal contribution of each feature per cell.

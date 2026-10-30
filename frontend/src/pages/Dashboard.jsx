@@ -74,7 +74,7 @@ export const Dashboard = () => {
   return (
     <div className="space-y-6">
       {/* Top Banner */}
-      <DisclaimerBanner message="GarudaBeat provides area-level risk estimation for preventive patrol deployment only. Predictions are never proof of future crime and strictly exclude individual profiling." />
+      <DisclaimerBanner message="Suraksha360 provides area-level risk estimation for preventive patrol deployment only. Predictions are never proof of future crime and strictly exclude individual profiling." />
 
       {/* KPI Cards Row */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">

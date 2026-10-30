@@ -1,4 +1,4 @@
-# GarudaBeat REST API Specification
+# Suraksha360 REST API Specification
 
 Base URL: `/api/v1`  
 Interactive OpenAPI Documentation: `http://localhost:8000/api/v1/docs`  

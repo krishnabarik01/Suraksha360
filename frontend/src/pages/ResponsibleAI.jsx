@@ -8,7 +8,7 @@ import {
 export const ResponsibleAI = () => {
   return (
     <div className="space-y-6 max-w-5xl mx-auto">
-      <DisclaimerBanner message="Core Architectural Mandate: GarudaBeat enforces strictly area-level, preventive risk estimation. Predictions are advisory only and never constitute proof or accusation of crime." />
+      <DisclaimerBanner message="Core Architectural Mandate: Suraksha360 enforces strictly area-level, preventive risk estimation. Predictions are advisory only and never constitute proof or accusation of crime." />
 
       <div className="space-y-1">
         <h1 className="text-xl font-bold font-heading text-slate-100 flex items-center gap-2.5">
@@ -63,7 +63,7 @@ export const ResponsibleAI = () => {
             3. Feedback-Loop Warning & Bias Safeguards
           </h2>
           <p className="text-xs text-slate-300 leading-relaxed">
-            <strong>The Self-Fulfilling Patrol Trap:</strong> If more police are sent to an area, more minor infractions are recorded, artificially inflating that area's perceived risk. GarudaBeat mitigates this by weighting severe reports (citizen 112 calls) higher than proactive stops and enforcing minimum baseline coverage across all beats.
+            <strong>The Self-Fulfilling Patrol Trap:</strong> If more police are sent to an area, more minor infractions are recorded, artificially inflating that area's perceived risk. Suraksha360 mitigates this by weighting severe reports (citizen 112 calls) higher than proactive stops and enforcing minimum baseline coverage across all beats.
           </p>
           <div className="text-[11px] text-amber-400 font-semibold bg-amber-950/30 p-2 rounded-lg border border-amber-900/40">
             Audit Metric: Area coverage entropy and dispersion monitored continuously.
@@ -79,7 +79,7 @@ export const ResponsibleAI = () => {
             4. Emergency Architecture: Citizens Dial 112
           </h2>
           <p className="text-xs text-slate-300 leading-relaxed">
-            Citizens in distress are <strong>never</strong> required or asked to access a web interface. The emergency hotline remains dial <strong>112</strong>. GarudaBeat connects via a mock adapter interface to CAD (Computer-Aided Dispatch) to assist control room operators after a call is already in queue.
+            Citizens in distress are <strong>never</strong> required or asked to access a web interface. The emergency hotline remains dial <strong>112</strong>. Suraksha360 connects via a mock adapter interface to CAD (Computer-Aided Dispatch) to assist control room operators after a call is already in queue.
           </p>
           <div className="text-[11px] text-rose-400 font-semibold bg-rose-950/30 p-2 rounded-lg border border-rose-900/40">
             Privacy: Caller phone numbers are cryptographically hashed (SHA-256) on ingest.
