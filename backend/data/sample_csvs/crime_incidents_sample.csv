@@ -1,0 +1,51 @@
+category,severity,latitude,longitude,timestamp,status,description,is_vulnerable_area
+Assault,4,21.274222,81.56937,2026-09-10T18:02:49,Closed,Reported Assault incident near Suburban Residential Sector,False
+Vehicle Theft,1,21.219135,81.652923,2026-09-13T23:25:58,Closed,Reported Vehicle Theft incident near Pachpedi Naka Outbound Junction,False
+Public Nuisance,1,21.249579,81.631002,2026-10-21T11:49:47,Resolved,Reported Public Nuisance incident near Jaistambh Chowk & Malviya Rd,False
+Pickpocketing,1,21.249439,81.634949,2026-10-28T18:28:01,Under Investigation,Reported Pickpocketing incident near Jaistambh Chowk & Malviya Rd,True
+Assault,4,21.240619,81.628078,2026-09-05T03:46:34,Closed,Reported Assault incident near Sadar Bazaar Old City,False
+Vandalism,1,21.245635,81.657975,2026-09-05T03:18:21,Reported,Reported Vandalism incident near Shankar Nagar Chowk,False
+Theft,1,21.259298,81.631653,2026-09-25T05:20:58,Resolved,Reported Theft incident near Raipur Railway Station (Ganj),False
+Public Nuisance,1,21.25175,81.633732,2026-08-02T01:28:19,Closed,Reported Public Nuisance incident near Jaistambh Chowk & Malviya Rd,False
+Vehicle Theft,2,21.250489,81.630989,2026-08-11T06:49:10,Resolved,Reported Vehicle Theft incident near Jaistambh Chowk & Malviya Rd,False
+Vandalism,2,21.199859,81.674691,2026-09-13T19:55:37,Closed,Reported Vandalism incident near Suburban Residential Sector,False
+Vehicle Theft,2,21.249363,81.634889,2026-10-14T03:38:24,Under Investigation,Reported Vehicle Theft incident near Jaistambh Chowk & Malviya Rd,False
+Vandalism,2,21.260969,81.656026,2026-10-04T02:10:55,Resolved,Reported Vandalism incident near Pandri Wholesale Cloth Market,False
+Theft,2,21.262361,81.630523,2026-08-04T16:12:27,Resolved,Reported Theft incident near Raipur Railway Station (Ganj),False
+Burglary,3,21.257807,81.655776,2026-09-24T14:38:51,Under Investigation,Reported Burglary incident near Pandri Wholesale Cloth Market,False
+Vehicle Theft,1,21.236233,81.671308,2026-08-22T22:39:52,Under Investigation,Reported Vehicle Theft incident near Telibandha Marine Drive,False
+Theft,2,21.258186,81.651225,2026-08-17T20:20:35,Reported,Reported Theft incident near Pandri Wholesale Cloth Market,False
+Burglary,3,21.255144,81.655235,2026-08-17T23:40:45,Resolved,Reported Burglary incident near Pandri Wholesale Cloth Market,False
+Public Nuisance,1,21.234438,81.669048,2026-08-14T03:19:47,Under Investigation,Reported Public Nuisance incident near Telibandha Marine Drive,True
+Vehicle Theft,2,21.256312,81.654438,2026-09-11T15:41:21,Resolved,Reported Vehicle Theft incident near Pandri Wholesale Cloth Market,True
+Theft,1,21.250422,81.628713,2026-08-07T05:08:47,Closed,Reported Theft incident near Jaistambh Chowk & Malviya Rd,False
+Assault,3,21.250953,81.64791,2026-10-23T19:33:48,Resolved,Reported Assault incident near Old Pandri Bus Stand / Fafadih,True
+Vehicle Theft,2,21.258166,81.570123,2026-09-17T22:10:19,Under Investigation,Reported Vehicle Theft incident near Tatibandh Ring Road Junction,False
+Public Nuisance,1,21.235871,81.672734,2026-08-21T11:34:31,Reported,Reported Public Nuisance incident near Telibandha Marine Drive,False
+Narcotics,2,21.25155,81.653022,2026-10-09T03:49:17,Resolved,Reported Narcotics incident near Old Pandri Bus Stand / Fafadih,False
+Vehicle Theft,1,21.239222,81.627937,2026-10-05T11:29:15,Reported,Reported Vehicle Theft incident near Sadar Bazaar Old City,False
+Theft,1,21.256871,81.651602,2026-10-23T02:18:02,Resolved,Reported Theft incident near Pandri Wholesale Cloth Market,True
+Assault,4,21.234822,81.669965,2026-09-25T04:34:52,Resolved,Reported Assault incident near Telibandha Marine Drive,True
+Robbery,5,21.235121,81.668799,2026-09-06T20:32:20,Under Investigation,Reported Robbery incident near Telibandha Marine Drive,False
+Theft,1,21.219398,81.650328,2026-10-03T00:40:04,Reported,Reported Theft incident near Pachpedi Naka Outbound Junction,False
+Vehicle Theft,1,21.259183,81.654504,2026-08-15T15:01:16,Reported,Reported Vehicle Theft incident near Pandri Wholesale Cloth Market,False
+Public Nuisance,1,21.237792,81.665578,2026-08-11T01:41:47,Reported,Reported Public Nuisance incident near Telibandha Marine Drive,False
+Burglary,3,21.245426,81.665734,2026-08-27T01:37:06,Closed,Reported Burglary incident near Shankar Nagar Chowk,False
+Vandalism,1,21.256884,81.652605,2026-09-08T14:51:31,Resolved,Reported Vandalism incident near Pandri Wholesale Cloth Market,False
+Vehicle Theft,1,21.258163,81.62926,2026-10-19T18:42:16,Under Investigation,Reported Vehicle Theft incident near Raipur Railway Station (Ganj),False
+Theft,1,21.241427,81.631073,2026-08-27T05:36:50,Resolved,Reported Theft incident near Sadar Bazaar Old City,False
+Theft,2,21.220097,81.651574,2026-09-04T22:30:04,Reported,Reported Theft incident near Pachpedi Naka Outbound Junction,False
+Public Nuisance,1,21.24911,81.63756,2026-10-15T22:22:08,Closed,Reported Public Nuisance incident near Jaistambh Chowk & Malviya Rd,False
+Public Nuisance,1,21.24911,81.631785,2026-08-05T04:26:57,Under Investigation,Reported Public Nuisance incident near Jaistambh Chowk & Malviya Rd,False
+Assault,3,21.215209,81.650171,2026-09-10T17:19:35,Reported,Reported Assault incident near Pachpedi Naka Outbound Junction,False
+Theft,2,21.248507,81.630315,2026-08-19T14:15:40,Under Investigation,Reported Theft incident near Jaistambh Chowk & Malviya Rd,False
+Assault,3,21.217646,81.654327,2026-09-12T00:02:40,Resolved,Reported Assault incident near Pachpedi Naka Outbound Junction,False
+Burglary,2,21.250942,81.599362,2026-10-25T23:46:45,Reported,Reported Burglary incident near NIT / GE Road Corridor,False
+Narcotics,3,21.254431,81.649261,2026-08-29T12:32:20,Closed,Reported Narcotics incident near Old Pandri Bus Stand / Fafadih,False
+Narcotics,2,21.252454,81.650296,2026-10-03T16:39:24,Reported,Reported Narcotics incident near Old Pandri Bus Stand / Fafadih,False
+Burglary,3,21.258238,81.658578,2026-09-04T15:02:50,Under Investigation,Reported Burglary incident near Pandri Wholesale Cloth Market,False
+Vehicle Theft,1,21.241637,81.629353,2026-08-19T03:11:43,Closed,Reported Vehicle Theft incident near Sadar Bazaar Old City,False
+Burglary,3,21.241665,81.629581,2026-09-28T14:33:41,Under Investigation,Reported Burglary incident near Sadar Bazaar Old City,False
+Narcotics,3,21.256561,81.606287,2026-09-23T12:28:18,Resolved,Reported Narcotics incident near NIT / GE Road Corridor,False
+Public Nuisance,1,21.252009,81.649966,2026-10-10T01:58:25,Resolved,Reported Public Nuisance incident near Old Pandri Bus Stand / Fafadih,False
+Public Nuisance,1,21.283554,81.689126,2026-10-25T04:45:16,Resolved,Reported Public Nuisance incident near Suburban Residential Sector,False

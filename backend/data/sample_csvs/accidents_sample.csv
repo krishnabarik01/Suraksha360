@@ -1,0 +1,51 @@
+latitude,longitude,timestamp,severity,vehicles_involved,road_type,weather,light_condition
+21.212311,81.647368,2026-08-29T15:06:08,major,1,National Highway,Clear,Daylight
+21.266969,81.628308,2026-10-25T21:48:51,minor,1,Junction,Clear,Dark - Unlit
+21.237289,81.671095,2026-10-17T21:42:23,minor,1,Internal Road,Clear,Dark - Unlit
+21.256883,81.654131,2026-09-17T01:47:00,minor,1,National Highway,Fog,Dark - Lit
+21.248802,81.631776,2026-08-17T02:15:23,major,3,Junction,Clear,Dark - Unlit
+21.235126,81.67202,2026-09-25T22:35:49,major,2,Junction,Rain,Dark - Lit
+21.255193,81.652932,2026-08-18T04:33:31,major,2,Internal Road,Clear,Dark - Unlit
+21.217069,81.65434,2026-09-08T16:44:21,minor,1,National Highway,Clear,Daylight
+21.258133,81.627258,2026-09-23T21:34:07,major,1,Junction,Clear,Dark - Unlit
+21.252746,81.629845,2026-08-08T03:00:08,major,2,Internal Road,Clear,Dark - Unlit
+21.269792,81.633089,2026-09-13T21:11:58,fatal,3,Internal Road,Clear,Dark - Unlit
+21.2555,81.630203,2026-09-04T09:05:30,major,1,City Arterial,Clear,Daylight
+21.24999,81.636391,2026-09-01T23:03:57,major,2,City Arterial,Clear,Dark - Lit
+21.234095,81.670425,2026-10-11T08:54:34,minor,3,National Highway,Clear,Daylight
+21.216686,81.651564,2026-09-24T01:38:53,minor,2,National Highway,Clear,Dark - Lit
+21.252208,81.632864,2026-10-10T22:32:30,minor,2,National Highway,Clear,Dark - Lit
+21.234569,81.670597,2026-10-17T10:52:53,major,2,Junction,Rain,Daylight
+21.257968,81.633529,2026-10-06T23:09:58,fatal,1,Internal Road,Clear,Dark - Lit
+21.239808,81.670525,2026-08-10T00:00:04,major,2,Junction,Clear,Dark - Lit
+21.217178,81.654094,2026-10-28T14:32:46,major,2,National Highway,Clear,Daylight
+21.233602,81.665376,2026-08-27T05:54:22,minor,2,City Arterial,Clear,Dark - Unlit
+21.218401,81.653141,2026-09-30T14:26:26,major,2,National Highway,Clear,Daylight
+21.212985,81.648481,2026-10-20T21:00:10,major,3,National Highway,Clear,Dark - Unlit
+21.261311,81.57476,2026-09-21T01:29:57,minor,2,National Highway,Rain,Dark - Unlit
+21.23168,81.672175,2026-09-30T04:40:26,minor,1,Internal Road,Clear,Dark - Unlit
+21.261733,81.631578,2026-09-09T20:57:14,minor,1,Flyover,Clear,Dark - Unlit
+21.255797,81.566233,2026-08-23T21:53:15,major,3,National Highway,Clear,Dark - Lit
+21.256423,81.653024,2026-10-08T10:20:44,major,1,National Highway,Clear,Daylight
+21.211437,81.651215,2026-10-01T23:16:36,minor,2,National Highway,Clear,Dark - Unlit
+21.252235,81.566672,2026-10-20T03:31:07,minor,2,National Highway,Clear,Dark - Unlit
+21.232523,81.669818,2026-09-10T04:04:29,fatal,3,Junction,Clear,Dark - Lit
+21.246537,81.635302,2026-09-30T21:24:51,major,2,Internal Road,Clear,Dark - Lit
+21.260759,81.625621,2026-08-30T03:15:48,major,1,City Arterial,Clear,Dark - Unlit
+21.251194,81.638256,2026-10-15T23:44:53,minor,2,City Arterial,Clear,Dark - Unlit
+21.256558,81.570162,2026-10-08T21:08:23,minor,1,National Highway,Clear,Dark - Unlit
+21.229629,81.664813,2026-09-04T23:12:13,minor,2,Flyover,Clear,Dark - Unlit
+21.238288,81.668338,2026-08-22T15:06:03,major,1,Internal Road,Clear,Daylight
+21.251793,81.62829,2026-08-24T23:42:25,minor,1,Flyover,Rain,Dark - Unlit
+21.216179,81.650442,2026-08-30T07:16:42,minor,2,National Highway,Clear,Daylight
+21.254054,81.633756,2026-08-15T14:35:08,minor,2,Flyover,Rain,Daylight
+21.257528,81.569287,2026-10-21T01:48:34,minor,1,National Highway,Clear,Dark - Unlit
+21.220787,81.648292,2026-09-01T15:12:31,major,2,National Highway,Clear,Daylight
+21.254598,81.572812,2026-09-27T03:34:10,minor,3,National Highway,Clear,Dark - Lit
+21.265016,81.624445,2026-10-17T04:59:29,minor,2,Junction,Clear,Dark - Lit
+21.238735,81.674444,2026-10-02T12:09:17,fatal,1,City Arterial,Rain,Daylight
+21.21979,81.650449,2026-09-07T08:37:04,minor,2,National Highway,Clear,Daylight
+21.216336,81.65401,2026-09-24T04:20:29,minor,2,National Highway,Clear,Dark - Lit
+21.257033,81.571223,2026-09-09T18:57:34,major,2,National Highway,Clear,Daylight
+21.217772,81.651889,2026-10-03T05:10:57,major,3,National Highway,Clear,Dark - Lit
+21.248309,81.624918,2026-08-14T15:52:26,fatal,2,Junction,Clear,Daylight
